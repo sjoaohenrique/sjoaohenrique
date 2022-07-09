@@ -1,7 +1,7 @@
 ### About me
 ---------------------
 
-🔭 I’m currently working as a Software Engineer and I'm looking to collaborate on open source projects I love learning new technologies and improve my problem-solving skills
+🔭 I’m currently working as a Software Engineer and I'm looking to collaborate on open source projects, I love learning new technologies and improve my problem-solving skills
 
 <!--
 **sjoaohenrique/sjoaohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
