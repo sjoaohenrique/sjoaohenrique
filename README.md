@@ -1,7 +1,7 @@
-### Hi there 👋
+### About me
 ---------------------
 
-I'm a software engineer who loves learning new technologies and problem-solving.
+🔭 I’m currently working on Accurate Software as a Developer and I'm looking to collaborate on open source projects I love learning new technologies and improve my problem-solving skills
 
 <!--
 **sjoaohenrique/sjoaohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
